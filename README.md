@@ -1,6 +1,5 @@
 ### Hi there 👋, Hey I'm Sqizy 
 #### I am a German Developer
-![I am a German Developer]
 
 In my free time I like to work on projects with friends or alone
 
