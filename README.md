@@ -9,6 +9,6 @@ I'm a German Developer, sometimes I spend my time to work on Projects with Frien
 	
 ## Socials
 ### [🔉 Discord](https://discord.com/users/787243566921547776) ʍσяitz#9428
-### [📷 Instagram](https://www.instagram.com/bysqizy) @\_bysqizy 
-### [🦤 Twitter](https://twitter.com/SqizyDE) @\_SqizyDE
+### [📷 Instagram](https://www.instagram.com/bysqizy) @\bysqizy 
+### [🦤 Twitter](https://twitter.com/SqizyDE) @\SqizyDE
 
