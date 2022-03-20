@@ -1,12 +1,14 @@
-### Hi there 👋, Hey I'm Sqizy 
-#### I am a German Developer
+# moritz | sqizy
+## My website: [revoutix.de](https://revoutix) 
+## Info
+Hey I'm @Sqizy
 
-In my free time I like to work on projects with friends or alone
+I'm a German Developer, sometimes I spend my time to work on Projects with Friends or alone.
 
-Skills: JS / Java / C++/ HTML / Python
-
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bysqizy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SqizyDE)  
+![Metrics](https://metrics.lecoq.io/Sqizy?template=classic&languages=1&introduction=1&repositories=1&activity=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=Europe%2FBerlin)
+	
+## Socials
+### [🔉 Discord](https://discord.com/users/787243566921547776) ʍσяitz#9428
+### [📷 Instagram](https://www.instagram.com/bysqizy) @\_bysqizy 
+### [🦤 Twitter](https://twitter.com/SqizyDE) @\_SqizyDE
 
