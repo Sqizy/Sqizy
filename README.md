@@ -1,7 +1,7 @@
-# moritz | sqizy
+# moritz | Vetoox
 ## My website: [revoutix.de](https://revoutix) 
 ## Info
-Hey I'm @Sqizy
+Hey I'm Vetoox | moritz
 
 I'm a German Developer, sometimes I spend my time to work on Projects with Friends or alone.
 
@@ -9,6 +9,6 @@ I'm a German Developer, sometimes I spend my time to work on Projects with Frien
 	
 ## Socials
 ### [🔉 Discord](https://discord.com/users/787243566921547776) ʍσяitz#9428
-### [📷 Instagram](https://www.instagram.com/bysqizy) @bysqizy 
-### [🦤 Twitter](https://twitter.com/SqizyDE) @SqizyDE
+### [📷 Instagram](https://www.instagram.com/bysqizy) @ 
+### [🦤 Twitter](https://twitter.com/VetooxDE) @VetooxDE
 
