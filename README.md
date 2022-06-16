@@ -1,7 +1,7 @@
 # moritz | Vetoox
 ## My website: [revoutix.de](https://revoutix) 
 ## Info
-Hey I'm Vetoox | moritz
+Hey I'm moritz
 
 I'm a German Developer, sometimes I spend my time to work on Projects with Friends or alone.
 
