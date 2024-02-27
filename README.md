@@ -1,6 +1,6 @@
 # 🥊Moritz
 I'm a German Java and Python Software Developer
-
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themxritz&label=Profile%20views&color=0e75b6&style=flat" alt="themxritz" /> </p>
 
 
