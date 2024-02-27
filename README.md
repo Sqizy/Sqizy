@@ -1,8 +1,6 @@
 # 🥊Moritz
-I'm a German Java and Python Software Developer
+I'm a German Java and Python Software Developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themxritz&label=Profile%20views&color=0e75b6&style=flat" alt="themxritz" /> </p>
-
 
 - 🔭 I’m currently working on **Website Blocker**
 
