@@ -17,5 +17,4 @@ I'm a German Java and Python Software Developer. All coding projects are built f
 
 
 <h3 align="left">📊 Stats</h3>
-![moritz's GitHub stats](https://github-readme-stats.vercel.app/api?username=themxritz&show_icons=true&theme=gruvbox)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themxritz&show_icons=true&locale=en&theme=gruvbox" alt="themxritz" /></p>
